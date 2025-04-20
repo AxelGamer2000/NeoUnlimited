@@ -1,5 +1,6 @@
 {
-  "itemGroup.neounlimited": "Example Mod Tab",
+  "itemGroup.neounlimited": "Default Pack",
   "block.neounlimited.example_block": "Example Block",
-  "item.neounlimited.example_item": "Example Item"
+  "item.neounlimited.wooden_grass_scythe": "Wooden Grass Scythe",
+  "item.neounlimited.bedrock_destroyer": "Bedrock Destroyer"
 }
