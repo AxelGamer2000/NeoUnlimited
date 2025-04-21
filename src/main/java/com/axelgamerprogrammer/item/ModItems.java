@@ -21,4 +21,5 @@ public class ModItems {
 
     public static final DeferredItem<Item> BEDROCK_DESTROYER = ITEMS.registerItem("bedrock_destroyer", BedrockDestroyerItem::new, new Item.Properties().stacksTo(8));
 
+    public static final DeferredItem<Item> ENDER_PEARL_LAUNCHER = ITEMS.registerItem("ender_pearl_launcher", EnderPearlLauncherItem::new, new Item.Properties().stacksTo(1));
 }

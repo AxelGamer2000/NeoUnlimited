@@ -20,5 +20,6 @@ public class ModCreativeTabs {
             .icon(() -> ModItems.BEDROCK_DESTROYER.get().getDefaultInstance())
             .displayItems((parameters, output) -> {
                 output.accept(ModItems.BEDROCK_DESTROYER.get());
+                output.accept(ModItems.ENDER_PEARL_LAUNCHER.get());
             }).build());
 }
